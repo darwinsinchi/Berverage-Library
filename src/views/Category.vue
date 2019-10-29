@@ -1,7 +1,7 @@
 <template>
   <div>
     <app-Header></app-Header>
-    <h3>About</h3>
+    <h3>Drinks by Category</h3>
     <app-Footer></app-Footer>
   </div>
 </template>
